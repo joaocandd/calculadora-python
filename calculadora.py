@@ -7,4 +7,6 @@ subtracao = num1 - num2
 
 divisão = num1/num2
 
+multiplicação = num1 * num2
+
 #COMENTÁRIO ALEATÓRIO
